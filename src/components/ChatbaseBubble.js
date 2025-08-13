@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import { Box, Button, Grommet } from "grommet";
 
 const CHATBASE_ID = "LjaM8svtZzI2vwl_F2iTe"; // Your Chatbase chatbot ID
 
@@ -20,27 +19,6 @@ const ChatbaseBubble = () => {
 
     document.body.appendChild(script);
   }, []);
-
-  const openBot = () => {
-    if (window.chatbase) {
-      window.chatbase("open");
-    }
-  };
-
-  const closeBot = () => {
-    if (window.chatbase) {
-      window.chatbase("close");
-    }
-  };
-
-  return (
-    <Grommet>
-      <Box direction="row" gap="small" pad="medium">
-        <Button label="Open Chatbot" primary onClick={openBot} />
-        <Button label="Close Chatbot" color="status-critical" onClick={closeBot} />
-      </Box>
-    </Grommet>
-  );
 };
 
 export default ChatbaseBubble;
