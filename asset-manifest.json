@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/2b-new/static/js/main.e7cce4d5.js",
+    "static/media/elito-logo.png": "/2b-new/static/media/elito-logo.d1f81b0dd5def3cc7216.png",
+    "static/media/photo1.jpg": "/2b-new/static/media/photo1.cb7d1b93c22902c075f7.jpg",
+    "static/media/powerzone-logo.png": "/2b-new/static/media/powerzone-logo.782a6729a72ea4e8f394.png",
+    "static/media/amaron-lubes-logo.png": "/2b-new/static/media/amaron-lubes-logo.ddcb907d746a442e8835.png",
+    "static/media/amaron-logo.png": "/2b-new/static/media/amaron-logo.5bde11f23f6d64376d67.png",
+    "static/media/photo2.jpg": "/2b-new/static/media/photo2.add80cbc586d5e65c5f0.jpg",
+    "static/media/2b-logo.png": "/2b-new/static/media/2b-logo.82e23180344ef5e742c3.png",
+    "static/media/elf-logo.svg": "/2b-new/static/media/elf-logo.e45b1dc936f1da5a70d93f80844e5959.svg",
+    "static/media/castrol-logo.svg": "/2b-new/static/media/castrol-logo.c8cec6bc063a9a56b41ec08b351429ea.svg",
+    "static/media/liqui-moly-logo.svg": "/2b-new/static/media/liqui-moly-logo.6abe5819561ca3d6063c2432611946a5.svg",
+    "static/media/motul-logo.svg": "/2b-new/static/media/motul-logo.3980ca501137c32357c897d574480d4b.svg",
+    "static/media/wd-40-logo.svg": "/2b-new/static/media/wd-40-logo.6daf4045fa4f07bf8804ff54177a879e.svg",
+    "index.html": "/2b-new/index.html",
+    "main.e7cce4d5.js.map": "/2b-new/static/js/main.e7cce4d5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e7cce4d5.js"
+  ]
+}
